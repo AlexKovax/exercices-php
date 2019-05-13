@@ -1,0 +1,3 @@
+# Exercices PHP
+
+Fichiers pour cours de PHP débutant...
